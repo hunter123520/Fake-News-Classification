@@ -12,7 +12,7 @@ This repository contains the Jupyter Notebook implementation of a fake news dete
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your_username/your_repo_name]
+   git clone [https://github.com/hunter123520/Fake-News-Classification]
    ```
 2. **Install dependencies:**
   ```bash
